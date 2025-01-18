@@ -36,5 +36,5 @@ def reverse(input_string):
     return ''.join(input_str)
 
 # Prompt the user for input and display the reversed string
-ip = input("Enter the string to be reversed: ")
-print(f"Reversed String: {reverse(ip)}")
+input_string = input("Enter the string to be reversed: ")
+print(f"Reversed String: {reverse(input_string)}")
