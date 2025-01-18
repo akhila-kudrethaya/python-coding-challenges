@@ -1,8 +1,8 @@
-# python-coding-challenges
+# Python Coding Challenges 
 
-## Just a bunch of Python coding challenges I’m solving daily!
+**Just a bunch of Python coding challenges I’m solving daily!**
 
-It's a mix of interview prep, problem-solving, and keeping my brain sharp. 
+It's a mix of interview prep, problem-solving, and keeping my brain sharp. :)
 
 
 
