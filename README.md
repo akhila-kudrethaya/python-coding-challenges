@@ -1,10 +1,10 @@
 # python-coding-challenges
 
-**Just a bunch of Python coding challenges I’m solving daily!**
+## Just a bunch of Python coding challenges I’m solving daily!
 
-<span style=" color: orange">It's a mix of interview prep, problem-solving, and keeping my brain sharp. 
-</span>
+It's a mix of interview prep, problem-solving, and keeping my brain sharp. 
 
 
 *Sharing it all here to stay consistent, and maybe help someone else too!*
-Join me in solving problems, improving, and growing our Python skills one challenge at a time!
+
+**Join me in solving problems, improving, and growing our Python skills one challenge at a time!**
